@@ -1,2 +1,2 @@
-EROM dockersamples/static-site
+FROM dockersamples/static-site
 ENV AUTHOR="Shohei Hayashi"
